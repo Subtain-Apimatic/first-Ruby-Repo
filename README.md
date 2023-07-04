@@ -68,7 +68,7 @@ A new controller class named `HelloController` will be created in a file named `
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -101,13 +101,13 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/controllers/pet.md)
-* [Store](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/controllers/store.md)
-* [User](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/controllers/user.md)
+* [Pet](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/controllers/pet.md)
+* [Store](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/controllers/store.md)
+* [User](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/http-response.md)
-* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/3.2.9/doc/http-request.md)
+* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/http-response.md)
+* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-Ruby-Repo/tree/1.0.3/doc/http-request.md)
 
